@@ -15,7 +15,7 @@
 
 _Not.And.Or.Xor.Mux.DMux
 
-[Hw1](/co109a/hw1)
+[Hw1](./co109a/hw1)
 
 ## 第二週
 
